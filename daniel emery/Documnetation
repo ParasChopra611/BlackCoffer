@@ -1,0 +1,8 @@
+changed parameters of TF IDF vectorizer for better results
+craeted a code that stores the results in google drive
+used the following embeddings
+    BERT embedding
+    Sentence Transformer
+    Gensim
+    EditDistance
+    Rapidfuzz
